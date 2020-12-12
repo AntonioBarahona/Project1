@@ -1,5 +1,6 @@
 .lineargradient{
-    position: absolute;
+    display: flex;
+    align-items: flex-start;
     width: 1366px;
     height: 768px;
     background: linear-gradient(90deg, #F2F4F1 75%, #DCE1DA 25%);
